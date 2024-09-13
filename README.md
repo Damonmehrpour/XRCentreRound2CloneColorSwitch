@@ -27,8 +27,7 @@ This project is a Unity-based game where the player controls a colored ball that
 
 ## Instructions
 
-- **Local Setup:** Clone the repository and address it through Unity engine 2022.3.21f.
-- **Web Deployment:** [Include the URL of the WebGL build and instructions on how to access it.]
+- **Local Setup:** Clone the repository and address it through Unity engine 2022.3.21f. Don't forget to select the scene !
 
 ## Future Features
 
